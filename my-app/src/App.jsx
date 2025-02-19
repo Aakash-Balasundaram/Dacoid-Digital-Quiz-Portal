@@ -1,6 +1,5 @@
 import './App.css'
-import Quiz from './quiz'
-import "./dbconfig"
+import Quiz from "./quiz.jsx"
 
 function App() {
 
